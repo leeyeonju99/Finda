@@ -38,6 +38,25 @@
 - ### User Journey Map
 ![슬라이드13](https://github.com/leeyeonju99/Finda/assets/114968625/418c358d-baec-4014-9894-1f7b32ba7405)
 
+<br/>
+
+- ### IA
+![슬라이드28](https://github.com/leeyeonju99/Finda/assets/114968625/6317194f-d6f0-4601-97b3-a51a4d5030b6)
+
+<br/>
+
+- ### Color
+![슬라이드35](https://github.com/leeyeonju99/Finda/assets/114968625/e1daf752-6652-4d50-b7bf-36b53871b367)
+
+<br/>
+
+- ### GUI
+![슬라이드38](https://github.com/leeyeonju99/Finda/assets/114968625/e4aa420a-0d80-4c98-bc40-40f980759110)
+
+<br/>
+
+- ### Graphic
+![슬라이드39](https://github.com/leeyeonju99/Finda/assets/114968625/185ff6a2-04fd-41a6-b537-eb6c65bc9dab)
 
 <br/>
 
