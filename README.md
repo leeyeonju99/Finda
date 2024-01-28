@@ -76,3 +76,7 @@
 ![슬라이드41](https://github.com/leeyeonju99/Finda/assets/114968625/190a9ab6-367e-4e2c-bd92-805612531f20)
 ![슬라이드42](https://github.com/leeyeonju99/Finda/assets/114968625/18df2fd7-b875-4014-872b-5195b1a691ba)
 ![슬라이드43](https://github.com/leeyeonju99/Finda/assets/114968625/7b4adbbc-98ab-4abc-b496-7e5c66e1d623)
+
+<br/>
+
+https://www.figma.com/proto/NbXVW68aDxaMgC7OWImyYK/Final?node-id=10-1020&starting-point-node-id=10%3A1020
