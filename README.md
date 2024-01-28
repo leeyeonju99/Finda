@@ -61,3 +61,10 @@
 <br/>
 
 ## 📖 수행 결과
+
+<br/>
+
+![슬라이드40](https://github.com/leeyeonju99/Finda/assets/114968625/bbe13e44-2854-4660-bd81-e1b3a747eb7e)
+![슬라이드41](https://github.com/leeyeonju99/Finda/assets/114968625/190a9ab6-367e-4e2c-bd92-805612531f20)
+![슬라이드42](https://github.com/leeyeonju99/Finda/assets/114968625/18df2fd7-b875-4014-872b-5195b1a691ba)
+![슬라이드43](https://github.com/leeyeonju99/Finda/assets/114968625/7b4adbbc-98ab-4abc-b496-7e5c66e1d623)
